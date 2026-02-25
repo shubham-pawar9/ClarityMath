@@ -19,6 +19,7 @@ interface MainLayoutProps {
 
 const navItems: NavItem[] = [
   { label: 'Home', href: '/' },
+  { label: 'Main', href: '/main' },
   { label: 'About', href: '/about' }
 ];
 
